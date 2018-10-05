@@ -3,3 +3,5 @@
 *.vdi
 node*/
 conf.yml
+clean.sh
+
